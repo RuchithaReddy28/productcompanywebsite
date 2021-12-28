@@ -470,7 +470,7 @@ contact us
 ## people
 ![output](https://github.com/RuchithaReddy28/productcompanywebsite/blob/main/people.PNG?raw=true)
 ## contact us
-![output](https://github.com/RuchithaReddy28/productcompanywebsite/blob/main/contact.PNGraw=true)
+![output](https://github.com/RuchithaReddy28/productcompanywebsite/blob/main/contact.PNG?raw=true)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
